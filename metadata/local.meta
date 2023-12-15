@@ -1,0 +1,24 @@
+[props/rest_collect]
+owner = admin
+version = 9.1.2
+modtime = 1702556831.888606000
+
+[props/source%3A%3A...ta-sva-rest_collector%2A.log%2A]
+owner = admin
+version = 9.1.2
+modtime = 1702556832.193626000
+
+[props/source%3A%3A...ta_sva_rest_collector%2A.log%2A]
+owner = admin
+version = 9.1.2
+modtime = 1702556832.490889000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23TA-sva-rest_collector%23data%2Finputs%2Frest_collect%3Acribl_sample%60%60splunk_cred_sep%60%601%3A]
+owner = admin
+version = 9.1.2
+modtime = 1702567946.649906000
+
+[passwords/credential%3A__REST_CREDENTIAL__%23TA-sva-rest_collector%23data%2Finputs%2Frest_collect%3Acribl_sample%60%60splunk_cred_sep%60%602%3A]
+owner = admin
+version = 9.1.2
+modtime = 1702567946.677382000
